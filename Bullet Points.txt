@@ -1,0 +1,5 @@
+React uses declarative approach.
+Javascript uses imperative approach.
+
+Each child in a list should have unique key- WHY?? 1. Performance issues
+                                                   2. Might result into bugs.
